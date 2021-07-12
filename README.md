@@ -29,3 +29,4 @@ To deactivate your environment:
 ```
 $ deactivate
 ```
+!(Image of Project)[proj_image.png)
