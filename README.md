@@ -31,4 +31,7 @@ $ deactivate
 ```
 <br />
 
+## About this Project
+HTML, CSS, and Python Flask were used for this project. I wrote all of the backend with some modifications to the CSS. All of the quotes are fetched from an external json file. When the user clicks the "Show new quote" button on the top left of the screen, a new quote displays. The quote includes the author, source, and date. 
+
 ![Project Image](proj_image.png)
