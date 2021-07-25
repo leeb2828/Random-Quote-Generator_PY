@@ -37,6 +37,6 @@ HTML, CSS, and Python Flask were used for this project. I wrote all of the backe
 ![Project Image](proj_image.png)
 
 ### How to test this project on different screen sizes
-Because I specified <b>host='0.0.0.0'</b> in the app.py file, you can view this project on other computers on the same network using the IP address of the computer running the server and the port number.<br />
+Because I specified <b>host='0.0.0.0'</b> in the app.py file, you can view this project on other computers on the same network using the IP address of the computer running the server and the port number (this project uses port 3000).<br />
 Here is an example of what to type into the browser:<br />
 192.145.1.113:3000
